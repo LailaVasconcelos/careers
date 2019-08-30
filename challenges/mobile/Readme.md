@@ -44,4 +44,6 @@ A tela de **Favoritos** deve:
 - Utilizar alguma ferramenta de CI
 - Testes unitários
 
-* Este desafio foi inspirado em: [Jusbrasil:Challenge](https://github.com/jusbrasil/careers/blob/master/challenges/02-carrinho-de-compras.md)
+---
+
+Este desafio foi inspirado em: [Jusbrasil:Challenge](https://github.com/jusbrasil/careers/blob/master/challenges/02-carrinho-de-compras.md)
