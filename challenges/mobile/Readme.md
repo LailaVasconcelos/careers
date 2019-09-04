@@ -1,10 +1,10 @@
 # Desafio: Favoritos do github
 
-Este é um desafio para testar seus conhecimentos em javascript, React e Graphql.
+Este é um desafio para testar seus conhecimentos em javascript, React-Native e Graphql.
 
 # Obrigatório
 
-O projeto deve ser desenvolvido em React e Graphql consumindo a [api do Github](https://developer.github.com/v4/).
+O projeto deve ser desenvolvido em React-Native e Graphql consumindo a [api do Github](https://developer.github.com/v4/).
 
 A lista de repositórios da tela de Trending deve ser recuperada através do Graphql.
 
