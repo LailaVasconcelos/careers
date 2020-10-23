@@ -29,7 +29,7 @@ Chamadas GraphQL
 Query
 
 ```
-account {
+account(uuid: <account_uuid>) {
   uuid
   currentBalance
   transactions {
